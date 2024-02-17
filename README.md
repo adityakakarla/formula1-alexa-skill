@@ -6,3 +6,5 @@ This is the code for an Alexa skill that returns the days, hours, minutes, and s
 This was my first attempt developing an Alexa skill. I learned the ins-and-outs of Alexa skill development, including slots, utterances, intents, and more.
 
 In addition, I strengthened my Python skills and incorporated API calls.
+
+Note: this skill does not work anymore. The reason? I'm geo-locked out of my parents' Amazon account, which is what I used to develop the skill.
